@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anmolloop-cmd
-- 👀 I’m interested in crazy new stuffs..
+- 👀 I’m interested in crazy cool stuffs..
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 mail:techinganmol@gmail.com
